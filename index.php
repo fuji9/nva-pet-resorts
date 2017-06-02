@@ -152,9 +152,7 @@
             </div>
             <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
-	 </div>
-    </nav>
+        <!-- /.container --></nav>
     </div>
     
      
@@ -165,7 +163,7 @@
    	</div>
    </div>
 </div>
-
+	</div>
 
 <div class="bg-middle"  id="about" >
 	
@@ -174,10 +172,10 @@
 	
 	<h2><span class="dot-space">&#8226;</span>About Us<span class="dot-space">&#8226;</span> </h2>	
 <div class="col-md-12 about-main">
-<div class="about-sec col-md-6">
+<div class="about-sec col-md-7">
 	<div class="clear"><h3 class="col-md-8">EXPERIENCED <span class="bl-text">PET INDUSTRY</span> LEADER<div class="bdr-grn clear"></div></h3></div>
 	
-	<div class="col-md-10">
+	<div class="col-md-11">
 	<p>For over 20 years, NVA has grown a network of pet resorts
 and veterinary hospitals by acquiring high-quality, successful pet care businesses like yours. While we provide the infrastructure to keep growing your business, we maintain your brand, your culture, and your relationship with the community. Our goal is to preserve the aspects of your business that have made it successful.</p>
 	</div>
@@ -193,7 +191,8 @@ the aspects of your business that
 </div>
 
 <div class="abt-middle clear">
-	<div class="col-md-4  pr0 abt-prof text-center">
+<div class="col-md-12">
+	<div class="col-md-4 abt-prof text-center">
 	<img src="images/abt-prof.jpg">
 	<h4>JOHN GLORIEUX</h4>
 	<p>Lauderdale Pet Lodge</p>
@@ -213,12 +212,14 @@ came true. I also no longer deal with loans or financing when we build a new fac
 </div>	
 </div>							
 	</div>	
-		
+			
+	</div>
 <div class="abt-last">
+<div class="col-md-12">
 <div class="col-md-6 abt-last-lft pr0">
-	<h3><span class="bl-text">TAILOR AN EXIT</span> STRATEGY
-		<span class="bl-text">FOR YOUR</span> INDIVIDUAL NEEDS<div class="bdr-grn clear"></div></h3>	
-		
+	<h3 class="col-md-11 clear"><span class="bl-text">TAILOR AN EXIT</span> STRATEGY
+		<span class="bl-text">FOR YOUR</span> INDIVIDUAL <span class="bl-text">NEEDS</span><div class="bdr-grn clear"></div></h3>	
+		<div class="clear"></div>
 		<p>With more than 450 pet care businesses in our portfolio, we have the experience, fl exibility, and resources to tailor an exit strategy to meet your goals. We have the assets to make cash offers on every business with which we partner, and we close
 			transactions quickly.</p>
 
@@ -228,7 +229,7 @@ fl exibility and options to structure your future role
 
 <p>We’re proud of the long list of sellers who agree that we’ve maintained our commitments to their businesses. If you’re interested in hearing about the experience of transitioning to NVA from previous sellers, we would be happy to make an introduction.</p>
 </div>
-<div class="col-md-6">
+<div class="col-md-6 pr0">
 <div class="abt-last-rht">
 	
 <div class="abt-last-content">
@@ -239,15 +240,14 @@ fl exibility and options to structure your future role
 </ul>	
 </div>			
 </div>	
-	
-	
+
 </div>	
 	
 </div>				
 	
 </div>	
 	
-	
+	</div>
 	
 	
 </div>	
@@ -265,7 +265,9 @@ worked with NVA, including those who joined us recently</p>
         <div class="carousel-inner">
           <div class="item active">
             <div class="col-xs-12 col-sm-6 col-md-3">
-            	<a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"></a>
+            	<a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"><div class="overlay">
+    <div class="pl-btn"></div>
+  </div></a>
               <h4 class="text-center">ROBERT MEDER <div class="bdr-grn1"></div></h4>
               <h5 class="text-center">Advantage Pet Center<br>
 Largo, FL</h5>
@@ -327,12 +329,12 @@ Largo, FL</h5>
 <div class="container">
 <div class="footer-main">
 <div class="text-center"><h2><span class="dot-space">&#8226;</span>Contact us<span class="dot-space">&#8226;</span></h2></div>
-<div class="col-md-4 col-xs-offset-1">
+<div class="col-md-5">
 	
 	<p>Give us a call at </p>
 <p class="tel-no">888.767.7755</p>	
 <p>Or fill out the form.</p>
-<p>Your confidentiality is important to us. Please provide the private phone number and email address where you would like to be reached.</p>	
+<p class="col-md-10">Your confidentiality is important to us. Please provide the private phone number and email address where you would like to be reached.</p>	
 </div>
 
 
@@ -353,21 +355,21 @@ Largo, FL</h5>
                                 </label>
 
                                 <label class="col-md-6 col-xs-12">
-                                    <input placeholder="Private Phone" name="txtPhone" class="input-box form-control" type="text"></label>
+                                    <input placehotop-bannerlder="Private Phone" name="txtPhone" class="input-box form-control" type="text"></label>
                                 <label class="col-md-6 col-xs-12"> 
                                     <input placeholder="Private Email" name="txtEmail" class="input-box form-control">
                                 </label>
 
                                 <label class="col-md-12 col-xs-12"><input placeholder="How did you hear about us? " name="txtAbtUs" class="input-box form-control" type="text"></label>
 
-                                <label class="col-md-12 col-xs-12"><input placeholder="Preferred farm of contact" name="txtContct" class="input-box form-control" type="text"></l 
+                                <label class="col-md-12 col-xs-12"><input placeholder="Preferred form of contact" name="txtContct" class="input-box form-control" type="text"></l 
                                     ></label>
 
                                 <div class="form-group">
-                                    <div class="col-sm-12 col-xs-12" align="center">
-                                        <label>  <input class="smt-btn" value="Submit" id="submit_btn" type="submit"></label>
+                                    <div class="col-sm-12 col-xs-12">
+                                        <label>  <input class="smt-btn" value="SUBMIT" id="submit_btn" type="submit"></label>
                                     </div>
-                                    <div class="col-md-12 col-xs-12" id="result" name="result"></div>
+                                    <div class="col-md-12 col-xs-12 result" id="result" name="result"></div>
 
                                 </div>
                             </form>
@@ -377,12 +379,14 @@ Largo, FL</h5>
 </div>
 <div class="copyright">
 <div class="container">
-<div class="col-md-2">
+
 <a id="back-to-top" href="#" class="back-to-top" role="button" >
-</a>
+</a><br>
+<br>
+
+<!--<p class="clear text-center top-txt">Back to top</p>-->
 
 
-</div>
 <div class="col-md-4">
 <p>NVA</p>
 <p>29229 Canwood Street Suit 100</p>
