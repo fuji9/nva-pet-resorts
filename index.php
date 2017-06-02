@@ -97,7 +97,7 @@
     });
     function sendData(){
         var data = $("#form-main").serialize();
-        $('#result').text("Processing...");
+        $('#result').text("Submitting...");
         $.ajax({
                 type: "POST",
                 url: "check.php",
