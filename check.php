@@ -40,7 +40,7 @@ $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl
 $mail->IsHTML(true);                                  // Set email format to HTML
 $mail->From = 'do-not-reply@interskale.in';
 $mail->FromName = 'Pet-Resort';
-$mail->AddAddress("kavita@interskale.in");
+$mail->AddAddress("meghna@interskale.in");
 $mail->Subject = $subject;
 $mail->Body = $body;
 $mail->AltBody = $body;
