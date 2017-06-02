@@ -355,7 +355,7 @@ Largo, FL</h5>
                                 </label>
 
                                 <label class="col-md-6 col-xs-12">
-                                    <input placehotop-bannerlder="Private Phone" name="txtPhone" class="input-box form-control" type="text"></label>
+                                    <input placeholder="Private Phone" name="txtPhone" class="input-box form-control" type="text"></label>
                                 <label class="col-md-6 col-xs-12"> 
                                     <input placeholder="Private Email" name="txtEmail" class="input-box form-control">
                                 </label>
