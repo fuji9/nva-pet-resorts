@@ -265,7 +265,7 @@ worked with NVA, including those who joined us recently</p>
         <div class="carousel-inner">
           <div class="item active">
             <div class="col-xs-12 col-sm-6 col-md-3">
-            	<a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"><div class="overlay">
+            	<a href="#"><img src="images/testi2.jpg" class="img-responsive center-block"><div class="overlay">
     <div class="pl-btn"></div>
   </div></a>
               <h4 class="text-center">ROBERT MEDER <div class="bdr-grn1"></div></h4>
@@ -276,14 +276,18 @@ Largo, FL</h5>
           </div>
           <div class="item">
             <div class="col-xs-12 col-sm-6 col-md-3">
-             <a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"></a>
+             <a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"><div class="overlay">
+    <div class="pl-btn"></div>
+  </div></a>
               <h4 class="text-center">MIKE SIMEONE<div class="bdr-grn1"></div></h4>
               <h5 class="text-center">PetSuites Sharonville<br>Cincinnati, OH</h5>
             </div>
           </div>
           <div class="item">
             <div class="col-xs-12 col-sm-6 col-md-3">
-            	 <a href="#"><img src="images/testi2.jpg" class="img-responsive center-block"></a>
+            	 <a href="#"><img src="images/testi2.jpg" class="img-responsive center-block"><div class="overlay">
+    <div class="pl-btn"></div>
+  </div></a>
             
               <h4 class="text-center">JEFF VOELPEL<div class="bdr-grn1"></div></h4>
               <h5 class="text-center">The Pet Spot<br>Cincinnati, OH</h5>
@@ -291,14 +295,16 @@ Largo, FL</h5>
           </div>          
           <div class="item">
             <div class="col-xs-12 col-sm-6 col-md-3">
-            <a href="#"><img src="images/testi3.jpg" class="img-responsive center-block"></a>
+            <a href="#"><img src="images/testi3.jpg" class="img-responsive center-block"><div class="overlay">
+    <div class="pl-btn"></div>
+  </div></a>
             
               <h4 class="text-center">MARIA ARTHUR<div class="bdr-grn1"></div></h4>
               <h5 class="text-center">Breed Above<br>
 Ann Arbor, MI</h5>	
             </div>
           </div>
-          <div class="item">
+          <!--<div class="item">
             <div class="col-xs-12 col-sm-6 col-md-3">
            <a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"></a>
               <h4 class="text-center">ROBERT MEDER<div class="bdr-grn1"></div></h4>
@@ -310,7 +316,7 @@ Largo, FL</h5>
             <div class="col-xs-12 col-sm-6 col-md-3"> <a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"></a>
               <h4 class="text-center">MIKE SIMEONE<div class="bdr-grn1"></div></h4>
               <h5 class="text-center">PetSuites Sharonville<br>Cincinnati, OH</h5></div>
-          </div>
+          </div>-->
           
           
         </div>
