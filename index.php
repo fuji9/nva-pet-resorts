@@ -289,9 +289,7 @@ Largo, FL</h5>
           </div>          
           <div class="item">
             <div class="col-xs-12 col-sm-6 col-md-3">
-            <a href="#"><img src="images/testi3.jpg" class="img-responsive center-block"><div class="overlay">
-    <div class="pl-btn"></div>
-  </div></a>
+            <a href="#"><img src="images/testi3.jpg" class="img-responsive center-block"></a>
             
               <h4 class="text-center">MARIA ARTHUR<div class="bdr-grn1"></div></h4>
               <h5 class="text-center">Breed Above<br>
