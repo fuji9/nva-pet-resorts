@@ -429,7 +429,7 @@ button.close {
     z-index: 2;
     background: url("../images/close_btn.png") left top repeat !important;
     width: 36px;
-    height: 36px; opacity:1.0 !important;
+    height: 36px;
 }
 /* CSS from jQuery Background Video plugin */
 /**
@@ -787,7 +787,7 @@ button.close {
 	.footer-bg{background-size: cover; background-position: -1043px 0; height: auto;}
 	.footer-main { padding: 50% 0 0 0 !important;}
 	.pl0 { padding-left: 15px !important;}
-	.carousel-control.left {left: 10px !important;}
+	.carousel-inner { width: 66% !important;  margin-left: 12px !important;}
 	
 	
 	
@@ -798,7 +798,7 @@ button.close {
 
 @media only screen and (max-width:360px) {
 	.carousel-inner {width: 74% !important; margin-left: 20px !important;}
-	.carousel-control.right { right: 42px !important;}	
+	.carousel-control.right { right: 49px !important;}	
 	.carousel-control.left {left: 3px !important;}	
 	.footer-bg {  background-position: -1323px 0;}
 	.footer-main {padding: 63% 0 0 0 !important;}
@@ -813,10 +813,10 @@ button.close {
 	.abt-img { height: 281px !important;}
 	.top-banner {height: 400px;}
 	.navbar-nav {margin: 9% 8% 5% 0 !important;}
-	
+	.carousel-inner { width: 80% !important; margin-left: 10px !important;}
 	.footer-bg { background-position: -1471px 0;}
 	h2{font-size: 32px !important;}
 	.footer-main {padding: 83% 0 0 0 !important;}
 	.dot-space {  padding: 0 10px;}
-	
+	.carousel-showmanymoveone .carousel-control.right { right: 34px !important;}
 }
