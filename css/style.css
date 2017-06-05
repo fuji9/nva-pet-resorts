@@ -701,13 +701,12 @@ button.close {
 	.abt-last-content{bottom: 33% !important; left: 0px!important;}
 	.abt-grn-bg{width: 785px !important;}
 	.social { padding: 0 0 40px;}
-	
+	.abt-prof img{display:inline-block !important:}
     .about-main { margin-top: 0%;}
 	.abt-middle {  padding: 0% 0 0;}
-	
-	
+}	
 
-}
+
 @media only screen and (max-width:768px) {
 	
 	.abt-img{margin-left: 100px;}
@@ -819,4 +818,13 @@ button.close {
 	.footer-main {padding: 83% 0 0 0 !important;}
 	.dot-space {  padding: 0 10px;}
 	.carousel-showmanymoveone .carousel-control.right { right: 34px !important;}
+}
+
+
+@media only screen and (min-width:768px)  and (max-width:1024px) {
+	.footer-main{padding:26% 0 0 0 !important;}
+	.abt-prof .img-responsive {
+    display: inline;
+}
+
 }
