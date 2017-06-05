@@ -120,11 +120,11 @@
 
 <div class="wrapper">
 <div class="top-banner">
-<div class="header">
+ <nav class="navbar navbar-default header top-menu" role="navigation">
 <div class="container">
 <div class="col-md-3"><div class="logo"></div></div>
 <div class="col-md-5 pull-right text-right">
- <nav class="navbar navbar-default  top-menu" role="navigation">
+
     
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -152,17 +152,17 @@
             </div>
             <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container --></nav>
+        <!-- /.container -->
     </div>
     
-     
-    </div>
+     </div>
+    </nav>
     <div class="container">
    	<div class="banner-content">
    <h2>Join Us<span class="bl-dot">&#8226;</span><br>Stay You<span class="yl-dot">&#8226;</span></h2>
    	</div>
    </div>
-</div>
+
 	</div>
 
 <div class="bg-middle"  id="about" >
@@ -193,7 +193,7 @@ the aspects of your business that
 <div class="abt-middle clear">
 <div class="col-md-12">
 	<div class="col-md-4 abt-prof text-center">
-	<img src="images/abt-prof.jpg">
+	<img src="images/abt-prof.jpg" class="img-responsive">
 	<h4>JOHN GLORIEUX</h4>
 	<p>Lauderdale Pet Lodge</p>
 	</div>
@@ -220,11 +220,11 @@ came true. I also no longer deal with loans or financing when we build a new fac
 	<h3 class="col-md-11 clear"><span class="bl-text">TAILOR AN EXIT</span> STRATEGY
 		<span class="bl-text">FOR YOUR</span> INDIVIDUAL <span class="bl-text">NEEDS</span><div class="bdr-grn clear"></div></h3>	
 		<div class="clear"></div>
-		<p>With more than 450 pet care businesses in our portfolio, we have the experience, fl exibility, and resources to tailor an exit strategy to meet your goals. We have the assets to make cash offers on every business with which we partner, and we close
+		<p>With more than 450 pet care businesses in our portfolio, we have the experience, flexibility, and resources to tailor an exit strategy to meet your goals. We have the assets to make cash offers on every business with which we partner, and we close
 			transactions quickly.</p>
 
-<p>An NVA Pet Resorts partnership grants you fi nancial
-fl exibility and options to structure your future role
+<p>An NVA Pet Resorts partnership grants you financial
+flexibility and options to structure your future role
 	in your business.</p>
 
 <p>We’re proud of the long list of sellers who agree that we’ve maintained our commitments to their businesses. If you’re interested in hearing about the experience of transitioning to NVA from previous sellers, we would be happy to make an introduction.</p>
@@ -265,7 +265,10 @@ worked with NVA, including those who joined us recently</p>
         <div class="carousel-inner">
           <div class="item active">
             <div class="col-xs-12 col-sm-6 col-md-3">
-            	<a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"></a>
+            	 <a class="box" data-target="#videoModal" data-thevideo="https://www.youtube.com/embed/zYu7RK_zgz8" data-toggle="modal" href="#"><img src="images/testi1.jpg" class="img-responsive center-block image">
+            	 	<span class="caption fade-caption"> <div class="pl-btn"></div> </span>				
+            	 
+            	 </a>
               <h4 class="text-center">ROBERT MEDER <div class="bdr-grn1"></div></h4>
               <h5 class="text-center">Advantage Pet Center<br>
 Largo, FL</h5>
@@ -274,14 +277,19 @@ Largo, FL</h5>
           </div>
           <div class="item">
             <div class="col-xs-12 col-sm-6 col-md-3">
-             <a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"></a>
+             <a class="box" data-target="#videoModal" data-thevideo="https://www.youtube.com/embed/zYu7RK_zgz8" data-toggle="modal" href="#"><img src="images/testi1.jpg" class="img-responsive center-block">
+             	<span class="caption fade-caption"> <div class="pl-btn"></div> </span>
+             	</a>
               <h4 class="text-center">MIKE SIMEONE<div class="bdr-grn1"></div></h4>
               <h5 class="text-center">PetSuites Sharonville<br>Cincinnati, OH</h5>
             </div>
           </div>
           <div class="item">
             <div class="col-xs-12 col-sm-6 col-md-3">
-            	 <a href="#"><img src="images/testi2.jpg" class="img-responsive center-block"></a>
+            	 <a class="box" data-target="#videoModal" data-thevideo="https://www.youtube.com/embed/zYu7RK_zgz8" data-toggle="modal" href="#"><img src="images/testi2.jpg" class="img-responsive center-block">
+            	 <span class="caption fade-caption"> <div class="pl-btn"></div> </span>
+            	 	            	 
+				</a>
             
               <h4 class="text-center">JEFF VOELPEL<div class="bdr-grn1"></div></h4>
               <h5 class="text-center">The Pet Spot<br>Cincinnati, OH</h5>
@@ -289,7 +297,9 @@ Largo, FL</h5>
           </div>          
           <div class="item">
             <div class="col-xs-12 col-sm-6 col-md-3">
-            <a href="#"><img src="images/testi3.jpg" class="img-responsive center-block"></a>
+            <a class="box" data-target="#videoModal" data-thevideo="https://www.youtube.com/embed/zYu7RK_zgz8" data-toggle="modal" href="#"><img src="images/testi3.jpg" class="img-responsive center-block">
+            <span class="caption fade-caption"> <div class="pl-btn"></div> </span>
+            		</a>
             
               <h4 class="text-center">MARIA ARTHUR<div class="bdr-grn1"></div></h4>
               <h5 class="text-center">Breed Above<br>
@@ -321,7 +331,20 @@ Largo, FL</h5>
 
 <!-- Item slider end-->
 </div>
-    </div>   
+    
+    </div> 
+    <div class="modal fade modal-vcenter" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+    <div class="modal-dialog  modal-fullscreen" >
+        <div class="modal-content modal-fullscreen">
+            <div class="modal-body ">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="100%" height="100%" src=""></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>  
 <div class="footer-bg" id="contact">
 
 <div class="container">
@@ -391,9 +414,9 @@ Largo, FL</h5>
 	</div>
 	<div class="col-md-4 pull-right">
 	<ul class="social">
-                <li><a href="#" class="rss" title="Facebook"><img src="images/facebook.png"></a></li>
-                <li><a href="#" class="face" title="Instagram"><img src="images/insta.png"></a></li>
-                <li><a href="#" class="twit" title="Linkdin"><img src="images/linkedin.png"></a></li>
+                <li><a href="https://www.facebook.com/National-Veterinary-Associates-122029569814/" title="Facebook"><img src="images/facebook.png"></a></li>
+                <li><a href="#"  title="Instagram"><img src="images/insta.png"></a></li>
+                <li><a href="https://www.linkedin.com/company/national-veterinary-associates" title="Linkdin"><img src="images/linkedin.png"></a></li>
 
             </ul>	
 	</div>
