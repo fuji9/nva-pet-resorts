@@ -520,7 +520,6 @@ button.close {
 
 /**
  
-
 /* .modal-fullscreen */
 /***** MODAL PROPERTIES *****/
  .modal-content {
@@ -739,7 +738,7 @@ button.close {
 
 @media only screen and (max-width:414px) {
 	.top-banner{height: 500px;}
-	.navbar-nav {margin: 50% 20% 30% 0 !important;}
+	.navbar-nav {margin: 25% 20% 30% 0 !important;}
 	.abt-img { margin-left: 0 !important; height: 370px;}	
 	.abt-rht p{margin-top: -36px; }
 	.pr0 { padding-right: 15px !important;}
@@ -765,7 +764,7 @@ button.close {
 
 @media only screen and (max-width:412px) {
 	.top-banner{height: 500px;}
-	.navbar-nav {padding: 70% 0!important;}
+	.navbar-nav {padding: 64% 0!important;}
 	.abt-img { margin-left: 0 !important; height: 370px;}	
 	.abt-rht p{margin-top: -36px; }
 	.pr0 { padding-right: 15px !important;}
@@ -811,7 +810,7 @@ button.close {
 	.carousel-control.left {left: -10px !important;}
 	.abt-img { height: 281px !important;}
 	.top-banner {height: 400px;}
-	.navbar-nav {margin: 9% 8% 5% 0 !important;}
+	.navbar-nav {margin: -18% 8% 5% 0 !important;}
 	.carousel-inner { width: 80% !important; margin-left: 10px !important;}
 	.footer-bg { background-position: -1471px 0;}
 	h2{font-size: 32px !important;}
