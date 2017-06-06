@@ -419,7 +419,7 @@ Largo, FL</h5>
 	<ul class="social">
                 <li><a href="https://www.facebook.com/National-Veterinary-Associates-122029569814/" title="Facebook" target="_blank"><img src="images/facebook.png"></a></li>
                 <li><a href="https://twitter.com/nvaonline"  title="Twitter" target="_blank"><img src="images/twiiter.png"></a></li>
-                <li><a href="https://www.linkedin.com/company/national-veterinary-associates" title="Linkdin" target="_blank"><img src="images/linkedin.png"></a></li>
+                <li><a href="https://www.linkedin.com/company/national-veterinary-associates" title="Linkedin" target="_blank"><img src="images/linkedin.png"></a></li>
 
             </ul>	
 	</div>
