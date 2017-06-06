@@ -123,7 +123,7 @@
  <nav class="navbar navbar-default header top-menu" role="navigation">
 <div class="container">
 <div class="col-md-3"><div class="logo"></div></div>
-<div class="col-md-5 pull-right text-right">
+<div class="col-md-6 pull-right text-right">
 
     
             <div class="navbar-header page-scroll">
@@ -148,6 +148,9 @@
                     <li>
                         <a class="page-scroll" href="#contact">Contact Us</a>
                     </li>
+                     <li>
+                        <a  href="http://www.nvaonline.com/">Full Site</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -159,7 +162,7 @@
     </nav>
     <div class="container">
    	<div class="banner-content">
-   <h2>Join Us<span class="bl-dot">&#8226;</span><br>Stay You<span class="yl-dot">&#8226;</span></h2>
+   <h2>Join Us<!--<span class="bl-dot">-->.<!--</span>--><br>Stay You<!--<span class="yl-dot">-->.<!--</span>--></h2>
    	</div>
    </div>
 
@@ -408,15 +411,15 @@ Largo, FL</h5>
 <!--<p class="clear text-center top-txt">Back to top</p>-->
 
 
-<div class="col-md-4">
-<p>NVA</p>
-<p>29229 Canwood Street Suit 100</p>
+<div class="col-md-5">
+<p>NATIONAL VETERINARY ASSOCIATES</p>
+<p>29229 Canwood Street Suite 100 Agoura Hills, CA 91301</p>
 	</div>
 	<div class="col-md-4 pull-right">
 	<ul class="social">
-                <li><a href="https://www.facebook.com/National-Veterinary-Associates-122029569814/" title="Facebook"><img src="images/facebook.png"></a></li>
-                <li><a href="#"  title="Instagram"><img src="images/insta.png"></a></li>
-                <li><a href="https://www.linkedin.com/company/national-veterinary-associates" title="Linkdin"><img src="images/linkedin.png"></a></li>
+                <li><a href="https://www.facebook.com/National-Veterinary-Associates-122029569814/" title="Facebook" target="_blank"><img src="images/facebook.png"></a></li>
+                <li><a href="https://twitter.com/nvaonline"  title="Twitter" target="_blank"><img src="images/twiiter.png"></a></li>
+                <li><a href="https://www.linkedin.com/company/national-veterinary-associates" title="Linkdin" target="_blank"><img src="images/linkedin.png"></a></li>
 
             </ul>	
 	</div>
