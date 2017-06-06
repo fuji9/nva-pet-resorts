@@ -700,16 +700,22 @@ button.close {
 	.abt-last-content{bottom: 33% !important; left: 0px!important;}
 	.abt-grn-bg{width: 785px !important;}
 	.social { padding: 0 0 40px;}
-	.abt-prof img{display:inline-block !important:}
+	.abt-prof img{display:inline-block !important;}
     .about-main { margin-top: 0%;}
 	.abt-middle {  padding: 0% 0 0;}
 }	
 
 
+@media only screen and (width:768px) {
+	.abt-img { width: 100% !important;  margin-top: 0px !important;}
+	.carousel-inner { width: 60% !important;   margin-left: 77px !important;}
+	.abt-img{margin-left: 96px; width: 79% !important;}
+	.abt-rht { right: 12%;}
+}
+
 @media only screen and (max-width:768px) {
 	
 	.abt-img{margin-left: 100px;}
-	.carousel-inner {  width: 55% !important;  margin-left: 131px !important;}
 	.footer-main { padding: 19% 0 0 0 !important;}
 	.footer-main p { margin: 0 !important; padding: 0 !important;  }		
 	.carousel-control.right { right: 87px !important; top: 25% !important;}
@@ -724,7 +730,7 @@ button.close {
 @media only screen and (max-width:640px) {
 	.abt-img{margin-left: 53px;}
 	.top-banner{height: 570px;}
-	.navbar-nav {margin: 40% 50% 40% 0 !important;}
+	.navbar-nav {padding: 50% 152px 61% 0 !important;}
 	.header{height: auto !important}
 	.nav > li {text-align: center; font-weight: bold; padding: 10px 0;}
 	.abt-last-content{left: 54px !important;}
@@ -822,8 +828,7 @@ button.close {
 
 @media only screen and (min-width:768px)  and (max-width:1024px) {
 	.footer-main{padding:26% 0 0 0 !important;}
-	.abt-prof .img-responsive {
-    display: inline;
-}
+	.abt-prof .img-responsive { display: inline;}
+	.abt-img { width: 40%;  margin-top: 78px;}
 
 }
