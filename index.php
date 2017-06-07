@@ -52,7 +52,6 @@
                 }
             },
             messages: {
-
                 txtOwner: {
                     required: "Please enter owner name",
                 },
@@ -87,12 +86,10 @@
                 txtContct: {
                     required: "Please enter preferred form of contact",
                 }
-
             },
             submitHandler: function(form) {
                 sendData();
             }
-
         });
     });
     function sendData(){
@@ -173,7 +170,7 @@
 <div class="container">
 <div class="about-section">
 	
-	<h2><span class="dot-space">&#8226;</span>About Us<span class="dot-space">&#8226;</span> </h2>	
+	<h2>About Us</h2>	
 <div class="col-md-12 about-main">
 <div class="about-sec col-md-7">
 	<div class="clear"><h3 class="col-md-8">EXPERIENCED <span class="bl-text">PET INDUSTRY</span> LEADER<div class="bdr-grn clear"></div></h3></div>
@@ -184,11 +181,6 @@ and veterinary hospitals by acquiring high-quality, successful pet care business
 	</div>
 	</div>		
 	<div class="abt-img">
-	<div class="abt-rht">
-	<p>Our goal is to preserve
-the aspects of your business that
-		   have made it successful</p>	
-		</div>
 	</div>	
 	</div>
 </div>
@@ -202,7 +194,7 @@ the aspects of your business that
 	</div>
 	<div class="col-md-8 pl0">
 <div class="abt-grn-bg">
-<div class="col-md-10">
+<div class="col-md-11">
 <div class="abt-prof-sec">
 <h3>SELLER<br>SPOTLIGHT<div class="bdr-grn"></div></h3>
 
@@ -219,8 +211,9 @@ came true. I also no longer deal with loans or financing when we build a new fac
 	</div>
 <div class="abt-last">
 <div class="col-md-12">
-<div class="col-md-6 abt-last-lft pr0">
+<div class="col-md-8 abt-last-lft">
 	<h3 class="col-md-11 clear"><span class="bl-text">TAILOR AN EXIT</span> STRATEGY
+
 		<span class="bl-text">FOR YOUR</span> INDIVIDUAL <span class="bl-text">NEEDS</span><div class="bdr-grn clear"></div></h3>	
 		<div class="clear"></div>
 		<p>With more than 450 pet care businesses in our portfolio, we have the experience, flexibility, and resources to tailor an exit strategy to meet your goals. We have the assets to make cash offers on every business with which we partner, and we close
@@ -229,11 +222,6 @@ came true. I also no longer deal with loans or financing when we build a new fac
 <p>An NVA Pet Resorts partnership grants you financial
 flexibility and options to structure your future role
 	in your business.</p>
-
-<p>We’re proud of the long list of sellers who agree that we’ve maintained our commitments to their businesses. If you’re interested in hearing about the experience of transitioning to NVA from previous sellers, we would be happy to make an introduction.</p>
-</div>
-<div class="col-md-6 pr0">
-<div class="abt-last-rht">
 	
 <div class="abt-last-content">
 <ul class="list-group">
@@ -241,7 +229,14 @@ flexibility and options to structure your future role
 <li>BECOME A PARTNER OPERATOR, A MANAGER OR EXIT COMPLETELY</li>
 <li>SELL OR LEASE US THE REAL ESTATE</li>	
 </ul>	
-</div>			
+</div>	
+
+<p>We’re proud of the long list of sellers who agree that we’ve maintained our commitments to their businesses. If you’re interested in hearing about the experience of transitioning to NVA from previous sellers, we would be happy to make an introduction.</p>
+</div>
+<div class="col-md-4 pr0">
+<div class="abt-last-rht">
+	
+			
 </div>	
 
 </div>	
@@ -257,86 +252,209 @@ flexibility and options to structure your future role
 	
 	<div id="testi" class="testi-section text-center">
 <div class="container">
-   <h2><span class="dot-space">&#8226;</span>Testimonials<span class="dot-space">&#8226;</span> </h2>
+   <h2>Say Hello to our Most Recent Additions</h2>
    <p>We would be happy to put you in touch with managers who have<br>
 worked with NVA, including those who joined us recently</p>
+ <div class="col-ms-12">
+
+<div class="loc-section text-left">
+ <div class="col-md-3">
+ <div class="loc-name">
+ 	<h5>Advantage Pet Center</h5>
+<h6>Robert Meder</h6>
+<span>Largo, FL</span>
+ <div class="bdr-grn1"></div>
+	 </div>
+	 <div class="loc-name">
+ 	<h5>Breed Above</h5>
+<h6>Maria Arthur</h6>
+<span>Ann Arbor, MI</span>
+ <div class="bdr-grn1"></div>
+	 </div>
+	 <div class="loc-name">
+ 	<h5>City Bark - 8th Ave</h5>
+<h6>Jonathan Castellano</h6>
+<span>Denver, CO</span>
+ <div class="bdr-grn1"></div>
+	 </div>
+	 <div class="loc-name">
+ 	<h5>City Bark – Littleton</h5>
+<h6>Damien Shelburg</h6>
+<span>Littleton, CO
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>City Bark – Lodo</h5>
+<h6>Megan Almy</h6>
+<span>Dencer, CO
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>City Bark – Parker</h5>
+<h6>Todd Ptak</h6>
+<span>Parker, CO</span>
+ <div class="bdr-grn1"></div>
+	 </div>
+	 <div class="loc-name">
+ 	<h5>PetSuites Roswell</h5>
+<h6>Amy Wimpey</h6>
+<span>Roswell, GA</span>
+	 </div>
+ </div>
+ <div class="col-md-3">
+ <div class="loc-name">
+ 	<h5>Lauderdale Pet Lodge</h5>
+<h6>Brielle Friedman</h6>
+<span>Fort Lauderdale, FL
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>Pet Keeper</h5>
+<h6>Lisa Torres</h6>
+<span>Torrance, CA
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>Waterville Animal Resort</h5>
+<h6>Collin Kelsey</h6>
+<span>Waterville, NY
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>My Second Home</h5>
+<h6>Myra Starko</h6>
+<span>Franklin, TN
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>New Tampa Pet Resort</h5>
+<h6>Kim Kevan</h6>
+<span>Lutz, FL
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>PetSuites Sharonville</h5>
+<h6>Mike Simeone</h6>
+<span>Cincinnati, OH</span>
+ <div class="bdr-grn1"></div>
+	 </div>
+	 <div class="loc-name">
+ 	<h5>Rover Oaks Pet Resort – Houston</h5>
+<h6>Claire Ellington</h6>
+<span>Houston, TX
+</span>
+
+	 </div>
+ </div>
+ <div class="col-md-3">
+ <div class="loc-name">
+ 	<h5>Canine Country Club – North </h5>
+<h6>Canine Country Club – Westside</h6>
+<h6>Jeff Copeland</h6>
+<span>Albuquerque, NM
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>PetSuites Worthington</h5>
+<h6>Rachel Mosley</h6>
+<span>Columbus, OH
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>PetSuites Zionsville</h5>
+<h6>Amanda Thomas</h6>
+<span>Indianapolis, IN
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>Pompano Pet Lodge</h5>
+<h6>Samantha Burbank</h6>
+<span>Pompano Beach, FL
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  
+	  <div class="loc-name">
+ 	<h5>Rover Oaks Pet Resort – Katy</h5>
+<h6>Joy Lee</h6>
+<span>Katy, TX</span>
+ <div class="bdr-grn1"></div>
+	 </div>
+	 <div class="loc-name">
+ 	<h5>PetSuites Norcross</h5>
+<h6>Valerie Lohr</h6>
+<span>Norcross, GA
+</span>
+
+	 </div>
+ </div>
+ <div class="col-md-3">
+ <div class="loc-name">
+ 	<h5>PetSuites Gahanna</h5>
+<h6>Tabitha Deakin</h6>
+<span>Columbus, OH
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>PetSuites Greenwood</h5>
+<h6>Michael Chalk</h6>
+<span>Greenwood, IN
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>PetSuites Indianapolis</h5>
+<h6>Cindy Trede</h6>
+<span>Fishers, IN
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>PetSuites Lexington</h5>
+<h6>Jessica Ramsey</h6>
+<span>Lexington, KY
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>PetSuites Louisville</h5>
+<h6>Tanna Roberts</h6>
+<span>Louisville, KY
+</span>
+<div class="bdr-grn1"></div>
+	 </div>
+	  <div class="loc-name">
+ 	<h5>PetSuites Main Facility</h5>
+<span>Covington, KY
+</span>
+
+	 </div>
+	  
+	  
+ </div>
  
-
-<!-- Item slider-->
-
-  <div class="carousel carousel-showmanymoveone slide col-md-10 col-xs-offset-1" id="carouselABC">
-        <div class="carousel-inner">
-          <div class="item active">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-            	 <a class="box" data-target="#videoModal" data-thevideo="https://www.youtube.com/embed/zYu7RK_zgz8" data-toggle="modal" href="#"><img src="images/testi1.jpg" class="img-responsive center-block image">
-            	 	<span class="caption fade-caption"> <div class="pl-btn"></div> </span>				
-            	 
-            	 </a>
-              <h4 class="text-center">ROBERT MEDER <div class="bdr-grn1"></div></h4>
-              <h5 class="text-center">Advantage Pet Center<br>
-Largo, FL</h5>
-            	
-            </div>
-          </div>
-          <div class="item">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-             <a class="box" data-target="#videoModal" data-thevideo="https://www.youtube.com/embed/zYu7RK_zgz8" data-toggle="modal" href="#"><img src="images/testi1.jpg" class="img-responsive center-block">
-             	<span class="caption fade-caption"> <div class="pl-btn"></div> </span>
-             	</a>
-              <h4 class="text-center">MIKE SIMEONE<div class="bdr-grn1"></div></h4>
-              <h5 class="text-center">PetSuites Sharonville<br>Cincinnati, OH</h5>
-            </div>
-          </div>
-          <div class="item">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-            	 <a class="box" data-target="#videoModal" data-thevideo="https://www.youtube.com/embed/zYu7RK_zgz8" data-toggle="modal" href="#"><img src="images/testi2.jpg" class="img-responsive center-block">
-            	 <span class="caption fade-caption"> <div class="pl-btn"></div> </span>
-            	 	            	 
-				</a>
-            
-              <h4 class="text-center">JEFF VOELPEL<div class="bdr-grn1"></div></h4>
-              <h5 class="text-center">The Pet Spot<br>Cincinnati, OH</h5>
-            </div>
-          </div>          
-          <div class="item">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-            <a class="box" data-target="#videoModal" data-thevideo="https://www.youtube.com/embed/zYu7RK_zgz8" data-toggle="modal" href="#"><img src="images/testi3.jpg" class="img-responsive center-block">
-            <span class="caption fade-caption"> <div class="pl-btn"></div> </span>
-            		</a>
-            
-              <h4 class="text-center">MARIA ARTHUR<div class="bdr-grn1"></div></h4>
-              <h5 class="text-center">Breed Above<br>
-Ann Arbor, MI</h5>	
-            </div>
-          </div>
-          <!--<div class="item">
-            <div class="col-xs-12 col-sm-6 col-md-3">
-           <a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"></a>
-              <h4 class="text-center">ROBERT MEDER<div class="bdr-grn1"></div></h4>
-              <h5 class="text-center">Advantage Pet Center<br>
-Largo, FL</h5> 	
-            </div>
-          </div>
-          <div class="item">
-            <div class="col-xs-12 col-sm-6 col-md-3"> <a href="#"><img src="images/testi1.jpg" class="img-responsive center-block"></a>
-              <h4 class="text-center">MIKE SIMEONE<div class="bdr-grn1"></div></h4>
-              <h5 class="text-center">PetSuites Sharonville<br>Cincinnati, OH</h5></div>
-          </div>-->
-          
-          
-        </div>
-    
-        
-        <a class="left carousel-control" href="#carouselABC" data-slide="prev"><img src="images/prev.png" alt="Left" class="img-responsive"></a>
-        <a class="right carousel-control" href="#carouselABC" data-slide="next"><img src="images/next.png" alt="Right" class="img-responsive"></a>
-     
-      </div>
-
-<!-- Item slider end-->
+ 
+	
+	 
+ 
+	 </div>
+	<p class="clear">Check the “Yes” box in the <a class="page-scroll" href="#contact">contact form</a> if you would like to be connected with one of our Resort Managers.</p>
+</div>
 </div>
     
     </div> 
-    <div class="modal fade modal-vcenter" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+   <!-- <div class="modal fade modal-vcenter" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
     <div class="modal-dialog  modal-fullscreen" >
         <div class="modal-content modal-fullscreen">
             <div class="modal-body ">
@@ -347,7 +465,7 @@ Largo, FL</h5>
             </div>
         </div>
     </div>
-</div>  
+</div>  -->
 <div class="footer-bg" id="contact">
 
 <div class="container">
@@ -366,7 +484,7 @@ Largo, FL</h5>
                             <form method="post" name="form-main" id="form-main">
                                 <label class="col-md-6 col-xs-12"><input placeholder="Owner Name" name="txtOwner" class="input-box form-control" type="text"></label>
                                 <label class="col-md-6 col-xs-12"> 
-                                    <input placeholder="Pet Resort name" name="txtResortName" class="input-box form-control">
+                                    <input placeholder="Pet Resort Name" name="txtResortName" class="input-box form-control">
                                 </label>
                                 <label class="col-md-12 col-xs-12"><input placeholder="Pet Resort Address" name="txtPetResortAdd" class="input-box form-control" ></label>
 
@@ -386,9 +504,11 @@ Largo, FL</h5>
 
                                 <label class="col-md-12 col-xs-12"><input placeholder="How did you hear about us? " name="txtAbtUs" class="input-box form-control" type="text"></label>
 
-                                <label class="col-md-12 col-xs-12"><input placeholder="Preferred form of contact" name="txtContct" class="input-box form-control" type="text"></l 
-                                    ></label>
-
+                                <label class="col-md-12 col-xs-12"><input placeholder="Preferred form of contact" name="txtContct" class="input-box form-control" type="text"></label>
+<label class="col-md-12 col-xs-12 rd-section"><span>Would you like to speak to one of our Pet Resort Managers?</span><label class="radio-inline">
+      <input type="radio" name="optradio" >Yes </label>
+    <label class="radio-inline"> <input type="radio" name="optradio">No
+    </label> </label>
                                 <div class="form-group">
                                     <div class="col-sm-12 col-xs-12">
                                         <label>  <input class="smt-btn" value="SUBMIT" id="submit_btn" type="submit"></label>
@@ -440,19 +560,15 @@ Largo, FL</h5>
   $('#carousel123').carousel({ interval: 2000 });
   $('#carouselABC').carousel({ interval: 3600 });
 }());
-
 (function(){
   $('.carousel-showmanymoveone .item').each(function(){
     var itemToClone = $(this);
-
     for (var i=1;i<4;i++) {
       itemToClone = itemToClone.next();
-
       // wrap around if at end of item collection
       if (!itemToClone.length) {
         itemToClone = $(this).siblings(':first');
       }
-
       // grab item, clone, add marker class, add to collection
       itemToClone.children(':first-child').clone()
         .addClass("cloneditem-"+(i))
@@ -483,7 +599,6 @@ Largo, FL</h5>
         });
         
         $('#back-to-top').tooltip('show');
-
 });
 	</script>
 
@@ -496,7 +611,6 @@ $(window).scroll(function() {
         $(".top-menu").removeClass("top-nav-collapse");
     }
 });
-
 //jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $(document).on('click', 'a.page-scroll', function(event) {
@@ -504,6 +618,7 @@ $(function() {
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top
         }, 1500, 'easeInOutExpo');
+
         event.preventDefault();
     });
 });
