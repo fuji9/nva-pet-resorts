@@ -49,7 +49,7 @@
                 },
                 txtContct: {
                     required: true
-                }
+                },
             },
             messages: {
                 txtOwner: {
@@ -85,8 +85,9 @@
                 },
                 txtContct: {
                     required: "Please enter preferred form of contact",
-                }
+                },
             },
+            
             submitHandler: function(form) {
                 sendData();
             }
@@ -470,7 +471,7 @@ worked with NVA, including those who joined us recently</p>
 
 <div class="container">
 <div class="footer-main">
-<div class="text-center"><h2><span class="dot-space">&#8226;</span>Contact us<span class="dot-space">&#8226;</span></h2></div>
+<div class="text-center"><h2>Contact us</h2></div>
 <div class="col-md-5">
 	
 	<p>Give us a call at </p>
@@ -505,10 +506,14 @@ worked with NVA, including those who joined us recently</p>
                                 <label class="col-md-12 col-xs-12"><input placeholder="How did you hear about us? " name="txtAbtUs" class="input-box form-control" type="text"></label>
 
                                 <label class="col-md-12 col-xs-12"><input placeholder="Preferred form of contact" name="txtContct" class="input-box form-control" type="text"></label>
-<label class="col-md-12 col-xs-12 rd-section"><span>Would you like to speak to one of our Pet Resort Managers?</span><label class="radio-inline">
-      <input type="radio" name="optradio" >Yes </label>
-    <label class="radio-inline"> <input type="radio" name="optradio">No
-    </label> </label>
+<label class="col-md-12 col-xs-12 rd-section">
+    <span>Would you like to speak to one of our Pet Resort Managers?</span>
+    <label class="radio-inline">
+        <input type="radio" name="optradio" value="Yes" checked="checked">Yes 
+    </label>
+    <label class="radio-inline"> <input type="radio" name="optradio" value="No">No
+    </label> 
+</label>
                                 <div class="form-group">
                                     <div class="col-sm-12 col-xs-12">
                                         <label>  <input class="smt-btn" value="SUBMIT" id="submit_btn" type="submit"></label>
@@ -532,7 +537,7 @@ worked with NVA, including those who joined us recently</p>
 
 
 <div class="col-md-5">
-<p>NATIONAL VETERINARY ASSOCIATES</p>
+<p>NVA</p>
 <p>29229 Canwood Street Suite 100 Agoura Hills, CA 91301</p>
 	</div>
 	<div class="col-md-4 pull-right">
