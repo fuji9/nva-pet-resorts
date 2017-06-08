@@ -843,6 +843,12 @@ button.close {
 
 }
 
+@media only screen  and (max-width:767px){
+	
+	.smt-btn{margin: 24px 0 0px;}
+}
+
+
 @media screen and (min-width:800px) and (max-width:967px){
 .bg-middle{height:auto;}	
 	.abt-rht{top:10%;}
