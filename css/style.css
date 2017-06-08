@@ -91,7 +91,7 @@ input.form-control{border: none; border-bottom: solid 1px #80c4d1; color: #fffff
 
 
 
-.smt-btn{border:none; background:url(../images/top-arrow.png) no-repeat 120px 16px ; margin:10px 0 0px; border: none !important;  padding:11px 40px; font-size:18px;  color:#007694; background-color:#d9f9ff !important}
+.smt-btn{border:none; background:url(../images/top-arrow.png) no-repeat 120px 16px ; margin:10px 0 0px 15px; border: none !important;  padding:11px 40px; font-size:18px;  color:#007694; background-color:#d9f9ff !important}
 
 
 .media-carousel img { border-radius: 50%;}
