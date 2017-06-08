@@ -12,6 +12,7 @@ $txtPhone = isset($_POST['txtPhone'])?$_POST['txtPhone']:"";
 $txtEmail = isset($_POST['txtEmail'])?$_POST['txtEmail']:"";
 $txtAbtUs = isset($_POST['txtAbtUs'])?$_POST['txtAbtUs']:"";
 $txtContct = isset($_POST['txtContct'])?$_POST['txtContct']:"";
+$optradio = isset($_POST['optradio'])?$_POST['optradio']:"";
 
 $subject = "Enquiry for Pet Resort";
 $body= '<table cellpadding="5" cellspacing="0" width="50%">
@@ -25,6 +26,7 @@ $body= '<table cellpadding="5" cellspacing="0" width="50%">
         <tr><td>Email Address : </td><td>' .$txtEmail. '</td></tr>
         <tr><td>How did you hear about us : </td><td>' .$txtAbtUs. '</td></tr>
         <tr><td>Preffered form of Contact : </td><td>' .$txtContct. '</td></tr>
+        <tr><td>Would you like to speak to one of our Pet Resort Managers? : </td><td>' .$optradio. '</td></tr>
         </table>
         <br>
         <em>This is an automatically generated email.Please do not reply to this email.</em>';
