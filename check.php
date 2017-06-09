@@ -36,14 +36,15 @@ $mail->IsSMTP();
 $mail->Host = 'smtp.gmail.com';                 // Specify main and backup server
 $mail->Port = 587;                                    // Set the SMTP port
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
-$mail->Username = 'do-not-reply@interskale.in';                // SMTP username
-$mail->Password = 'donotreply123';                     // SMTP password
+$mail->Username = 'petresortsacquisitionsNVA@gmail.com';                // SMTP username
+$mail->Password = 'Agoura101!';                     // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl' also accepted
 $mail->IsHTML(true);                                  // Set email format to HTML
-$mail->From = 'do-not-reply@interskale.in';
+$mail->From = 'petresortsacquisitionsNVA@gmail.com';
 $mail->FromName = 'Pet-Resort';
 $mail->AddAddress("acquisitions@nvanet.com");
 $mail->AddBcc("rudy@fuji-9.com");
+$mail->AddBcc("meghna@interskale.in");
 $mail->Subject = $subject;
 $mail->Body = $body;
 $mail->AltBody = $body;
