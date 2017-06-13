@@ -43,8 +43,6 @@ $mail->IsHTML(true);                                  // Set email format to HTM
 $mail->From = 'petresortsacquisitionsNVA@gmail.com';
 $mail->FromName = 'Pet-Resort';
 $mail->AddAddress("acquisitions@nvanet.com");
-$mail->AddBcc("rudy@fuji-9.com");
-$mail->AddBcc("meghna@interskale.in");
 $mail->Subject = $subject;
 $mail->Body = $body;
 $mail->AltBody = $body;
