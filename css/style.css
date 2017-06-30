@@ -854,3 +854,10 @@ button.close {
 .bg-middle{height:auto;}	
 	.abt-rht{top:10%;}
 }
+
+@media only screen and (min-width:782px) and (max-width:900px){
+	.bg-middle{height:auto;}	
+	.footer-bg{height:auto;}
+.abt-grn-bg { width: 625px !important;}	
+	
+}
