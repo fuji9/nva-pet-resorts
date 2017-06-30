@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -173,7 +171,7 @@
 	
 	<h2>About Us</h2>	
 <div class="col-md-12 about-main">
-<div class="about-sec col-md-7">
+<div class="about-sec col-md-7 col-sm-7">
 	<div class="clear"><h3 class="col-md-8">EXPERIENCED <span class="bl-text">PET INDUSTRY</span> LEADER<div class="bdr-grn clear"></div></h3></div>
 	
 	<div class="col-md-11">
@@ -188,14 +186,14 @@ and veterinary hospitals by acquiring high-quality, successful pet care business
 
 <div class="abt-middle clear">
 <div class="col-md-12">
-	<div class="col-md-4 abt-prof text-center">
+	<div class="col-md-4 col-sm-4 abt-prof text-center">
 	<img src="images/abt-prof.jpg" class="img-responsive">
 	<h4>JOHN GLORIEUX</h4>
 	<p>Lauderdale Pet Lodge</p>
 	</div>
-	<div class="col-md-8 pl0">
+	<div class="col-md-8 col-sm-8 pl0">
 <div class="abt-grn-bg">
-<div class="col-md-11">
+<div class="col-md-11 col-sm-12">
 <div class="abt-prof-sec">
 <h3>SELLER<br>SPOTLIGHT<div class="bdr-grn"></div></h3>
 
@@ -259,7 +257,7 @@ worked with NVA, including those who joined us recently</p>
  <div class="col-ms-12">
 
 <div class="loc-section text-left">
- <div class="col-md-3">
+ <div class="col-md-3 col-sm-3">
  <div class="loc-name">
  	<h5>Advantage Pet Center</h5>
 <h6>Robert Meder</h6>
@@ -304,7 +302,7 @@ worked with NVA, including those who joined us recently</p>
 <span>Roswell, GA</span>
 	 </div>
  </div>
- <div class="col-md-3">
+ <div class="col-md-3 col-sm-3">
  <div class="loc-name">
  	<h5>Lauderdale Pet Lodge</h5>
 <h6>Brielle Friedman</h6>
@@ -354,7 +352,7 @@ worked with NVA, including those who joined us recently</p>
 
 	 </div>
  </div>
- <div class="col-md-3">
+ <div class="col-md-3 col-sm-3">
  <div class="loc-name">
  	<h5>Canine Country Club – North </h5>
 <h6>Canine Country Club – Westside</h6>
@@ -399,7 +397,7 @@ worked with NVA, including those who joined us recently</p>
 
 	 </div>
  </div>
- <div class="col-md-3">
+ <div class="col-md-3 col-sm-3">
  <div class="loc-name">
  	<h5>PetSuites Gahanna</h5>
 <h6>Tabitha Deakin</h6>
@@ -623,7 +621,6 @@ $(function() {
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top
         }, 1500, 'easeInOutExpo');
-
         event.preventDefault();
     });
 });
