@@ -42,7 +42,7 @@ $mail->SMTPSecure = 'tls';                            // Enable encryption, 'ssl
 $mail->IsHTML(true);                                  // Set email format to HTML
 $mail->From = 'petresortsacquisitionsNVA@gmail.com';
 $mail->FromName = 'Pet-Resort';
-$mail->AddAddress("acquisitions@nvanet.com");
+$mail->AddAddress("poonam@interskale.in");
 $mail->Subject = $subject;
 $mail->Body = $body;
 $mail->AltBody = $body;
